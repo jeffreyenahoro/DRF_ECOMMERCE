@@ -1,7 +1,5 @@
 from .base import *
 
-
-
 SECRET_KEY = os.environ.get("PRODUCTION_SECRET_KEY")
 
 

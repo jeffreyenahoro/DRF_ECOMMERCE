@@ -1,4 +1,4 @@
-djanogEcommerce_venv/
+djangoDRFenv/
 .pytest_cache
 **__pycache__/
 db.sqlite3
